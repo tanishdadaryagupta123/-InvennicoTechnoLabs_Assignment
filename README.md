@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 # Task Manager - MERN Stack Application
 
 A full-stack Task Management application built with MongoDB, Express.js, React, and Node.js (MERN Stack) with user authentication.
 
 ## 📋 Features
+=======
+## Getting Started
+>>>>>>> b03e0c294296277e682661c2bbc387ad37a0581a
 
 ### Backend
 - RESTful API with Express.js
@@ -199,8 +203,8 @@ Terminal 1 (Backend):
 ```bash
 cd backend
 npm run dev
-```
 
+<<<<<<< HEAD
 Terminal 2 (Frontend):
 ```bash
 cd frontend
@@ -216,3 +220,20 @@ MIT License
 ## 👤 Author
 
 Task Manager - MERN Stack Application
+=======
+
+## Project Structure
+```
+├── src/
+│   ├── App.jsx      
+│   ├── App.css      
+│   ├── main.jsx   
+│   └── index.css    
+├── index.html        
+├── vite.config.js   
+└── package.json     
+
+
+<img width="451" height="904" alt="image" src="https://github.com/user-attachments/assets/797dd111-33bd-401d-a2b7-89b9d28afd04" />
+
+>>>>>>> b03e0c294296277e682661c2bbc387ad37a0581a
